@@ -16,7 +16,7 @@
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 
 
-[![MosesMG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosesMG&show_icons=true&theme=radical)](https://github.com/MosesMG/github-readme-stats)
+[![MosesMG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosesMG&theme=radical)](https://github.com/MosesMG/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosesMG&layout=compact&theme=radical)

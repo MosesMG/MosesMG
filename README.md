@@ -22,4 +22,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosesMG&layout=compact&theme=radical)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MosesMG&show_icons=true&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MosesMG&show_icons=true&theme=dark)](https://git.io/streak-stats)

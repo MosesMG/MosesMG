@@ -10,7 +10,7 @@
 
 ### 🔧 Technologies & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel)
-![Vue]([https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white))
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 
 

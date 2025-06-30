@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer | Laravel ⚙️ Vue.js ⚡ Inertia
 
-- 🔭 I’m currently working on [SImple React App](https://github.com/MosesMG/Learn-React.git)
+- 🔭 I’m currently learning [ReactJs](https://react.dev/learn) and [Python](https://www.python.org/doc/)
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: moiseguenolekossou@gmail.com
 

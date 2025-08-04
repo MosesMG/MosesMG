@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Moïse-Guénolé KOSSOU
 
-### 🚀 Full-Stack Developer | Laravel ⚙️ Vue.js ⚡ Inertia
+### 🚀 Full-Stack Developer | Laravel ⚙️ Vue/React ⚡ Inertia
 
 - 🔭 I’m currently learning [React(JS/TS)](https://react.dev/learn) and [Python](https://www.python.org/doc/)
 

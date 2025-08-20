@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer | Laravel ⚙️ Vue/React ⚡ Inertia
 
-- 🔭 I’m currently learning [React(JS/TS)](https://react.dev/learn) and [Python](https://www.python.org/doc/)
+- 🔭 I’m currently learning NodeJs, [ExpressJs](https://expressjs.com) and [MongoDB](https://www.mongodb.com) joining the MERN stack team
 
 - 📫 How to reach me: moiseguenolekossou@gmail.com
 

@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Moïse-Guénolé KOSSOU
 
-### 🚀 Full-Stack Developer | Laravel ⚙️ Vue/React ⚡ Inertia
+### 🚀 Web Developer | Laravel | NodeJs ⚙️ VueJs | ReactJs
 
 - 🔭 I’m currently learning NodeJs, [ExpressJs](https://expressjs.com) and [MongoDB](https://www.mongodb.com), thus joining the MERN stack team
 

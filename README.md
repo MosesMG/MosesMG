@@ -4,8 +4,6 @@
 
 ### 🚀 Web Developer | Laravel | NodeJs ⚙️ VueJs | ReactJs
 
-- 🔭 I’m currently learning NodeJs, [ExpressJs](https://expressjs.com) and [MongoDB](https://www.mongodb.com), thus joining the MERN stack team
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgk.033) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@moses_mg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moiseguenolekossou@gmail.com) 
 

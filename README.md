@@ -26,7 +26,7 @@
 
 **🇬🇧 English**
 
-- 🚀 Full-stack web developer
+- 🚀 Junior full-stack web developer
 - ⚙️ Building REST APIs with **Laravel** & **Node.js / Express**
 - 🎨 Crafting dynamic UIs with **Vue.js** & **React**
 - 🌱 Always learning new technologies
@@ -37,7 +37,7 @@
 
 **🇫🇷 Français**
 
-- 🚀 Développeur web full-stack
+- 🚀 Développeur web junior full-stack
 - ⚙️ Je conçois des API REST avec **Laravel** et **Node.js / Express**
 - 🎨 Je crée des interfaces dynamiques avec **Vue.js** et **React**
 - 🌱 Toujours en train d'apprendre de nouvelles technos

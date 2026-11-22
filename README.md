@@ -40,7 +40,7 @@
 - 🚀 Développeur web junior full-stack
 - ⚙️ Je conçois des API REST avec **Laravel** et **Node.js / Express**
 - 🎨 Je crée des interfaces dynamiques avec **Vue.js** et **React**
-- 🌱 Toujours en train d'apprendre de nouvelles technos
+- 🌱 Toujours en train d'apprendre de nouvelles technologies
 - 🤝 Ouvert aux collaborations et opportunités
 
 </td>
